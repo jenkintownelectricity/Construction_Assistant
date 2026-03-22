@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+state/events/*.json
+state/rejections/*.json
+state/snapshots/*.json
